@@ -31,7 +31,7 @@ Analytics   :  Chart.js
 
 graph LR
     A[Vatandaş] --> B(WebGIS Raporlama)
-    B --> C{Firestore}
+    B --> C{Firestore (db) }
     C --> D[Belediye/Admin Paneli]
     D --> E(Sorun Çözümü & Onay)
 
