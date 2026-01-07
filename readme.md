@@ -8,16 +8,16 @@
 ### `TEMEL ÖZELLİKLER`
 
 * **Vatandaş Modülü**
-  `Firebase Auth` ile güvenli giriş ve `Leaflet.js` entegrasyonu sayesinde harita üzerinde gerçek zamanlı sorun ihbarı.
+  `Firebase Auth` ile güvenli giriş ve `Leaflet.js` entegrasyonu sayesinde harita üzerinde gerçek zamanlı sorun ihbarı
 
 * **Dinamik Harita**
-  `Firestore` verileriyle beslenen; sorun tipine ve çözüm durumuna (Beklemede/Çözüldü) göre dinamik renk değiştiren `Smart Markers` sistemi.
+  `Firestore` verileriyle beslenen; sorun tipine ve çözüm durumuna (Beklemede/Çözüldü) göre dinamik renk değiştiren `Smart Markers` sistemi
 
 * **Admin Dashboard**
-  `Chart.js` destekli mahalle bazlı sorun yoğunluğu grafikleri ve yerel yönetimler için şeffaf veri takip mekanizması.
+  `Chart.js` destekli mahalle bazlı sorun yoğunluğu grafikleri ve yerel yönetimler için şeffaf veri takip mekanizması
 
 * **Şeffaf Yönetim**
-  Vatandaş ve belediye arasındaki bürokrasiyi dijitalleştirerek çözüm sürecini hızlandıran karar destek yapısı.
+  Vatandaş ve belediye arasındaki bürokrasiyi dijitalleştirerek çözüm sürecini hızlandıran karar destek yapısı
 
 ---
 
