@@ -5,7 +5,7 @@
 
 ---
 
-### `TEMEL ÖZELLİKLER`
+### `ÖZELLİKLER`
 
 * **Vatandaş Modülü**
   `Firebase Auth` ile güvenli giriş ve `Leaflet.js` entegrasyonu sayesinde harita üzerinde gerçek zamanlı sorun ihbarı
